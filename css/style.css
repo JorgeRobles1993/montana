@@ -39,7 +39,6 @@ h5 {
 
 
 #features {
-    height:25rem;
 }
 
 #about {
@@ -55,15 +54,7 @@ h5 {
 
 #blog {
 }
-.colphoto {
-    background-image: url(../images/1200.jpeg);
-    background-size: contain;
-    background-repeat: no-repeat;
-    background-position: center;
-    margin-top: 5vh;
-    margin-bottom: 5vh;
-    margin-left: 1vh
-}
+
 #history {
     background-image: url(../images/bg_appareil_photo.jpg); 
     background-size: cover;
